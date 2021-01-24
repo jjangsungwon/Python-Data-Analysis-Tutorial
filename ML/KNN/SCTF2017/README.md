@@ -39,9 +39,5 @@
 
 
 ### 실행 화면
-
-![image-20210124165455732](C:\Users\sw\AppData\Roaming\Typora\typora-user-images\image-20210124165455732.png)
-
-
-
-<video src="C:\Users\sw\Documents\oCam\녹화_2021_01_24_16_56_30_64.mp4"></video>
+![실행화면](https://user-images.githubusercontent.com/41226054/105624614-92f2e880-5e66-11eb-8c14-7ce33cf6cc85.PNG)  
+https://user-images.githubusercontent.com/41226054/105624580-2a0b7080-5e66-11eb-9711-04158a06df8b.mp4
